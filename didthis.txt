@@ -1,0 +1,12 @@
+  133 
+  582  cd reactmysql
+npm init --yes
+
+  583    586  npm install express
+  587  npm install --save mysql2
+    606  npm install --g nodemon
+  607  npm run dev
+   613  npm install --save sequelize
+   626  mysql -u root -p
+  627  npm run dev
+    632  history > didthis.txt
